@@ -2,6 +2,8 @@
 ## Background
 Since its launch in 2003, Steam has evolved into one of the largest and most popular platforms for distributing PC games, attracting millions of active users daily. The platform offers more than just game purchases—it also includes features like online communities, user reviews, and gameplay statistics. In the highly competitive gaming industry, a deep understanding of the factors influencing sales, reviews, and player engagement is crucial for developers and publishers to make strategic decisions.
 
+Data for this project can be accessed __[here](https://www.kaggle.com/datasets/alicemtopcu/top-1500-games-on-steam-by-revenue-09-09-2024)__
+
 ## Objectives
 As a Data Analyst, my role is to provide insights into the performance of games on the Steam platform. The analysis aims to address several key questions, including:
 
