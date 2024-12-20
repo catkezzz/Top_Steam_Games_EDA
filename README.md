@@ -30,5 +30,6 @@ Tools Used:
 Pipeline Flow in Dockerized Environment:
 1. Data Source → Ingestion into PostgreSQL.
 2. Data transformation in PostgreSQL via Airflow.
-3. Processed data exported to Elasticsearch.
-4. Data visualized in Kibana.
+3. Data validation using Expectations
+4. Processed data exported to Elasticsearch.
+5. Data visualized in Kibana.
