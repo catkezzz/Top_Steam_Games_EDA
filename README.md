@@ -27,9 +27,30 @@ Tools Used:
 - **Kibana**: Visualizes the indexed data.
 - **Docker**: Containers for isolated and portable environments.
 
+## Data Analysis
+Here's the dashboard made on Kibana
+
+
 Pipeline Flow in Dockerized Environment:
 1. Data Source → Ingestion into PostgreSQL.
 2. Data transformation in PostgreSQL via Airflow.
 3. Data validation using Expectations
 4. Processed data exported to Elasticsearch.
 5. Data visualized in Kibana.
+
+![plot   insight 01](https://github.com/user-attachments/assets/aa24466b-91ad-4a6e-9f32-9c725f048fda)
+
+![plot   insight 02](https://github.com/user-attachments/assets/220d99f5-c835-4417-918e-d3570d45de66)
+
+![plot   insight 03](https://github.com/user-attachments/assets/bf805263-ae28-43c2-ac21-9b205aa642da)
+
+![plot   insight 04](https://github.com/user-attachments/assets/608ee36a-1a73-48b6-bfe1-1bf0092fac5e)
+
+![plot   insight 05](https://github.com/user-attachments/assets/40e5c5c6-b3a5-494b-b065-db42a09786be)
+
+![plot   insight 06](https://github.com/user-attachments/assets/36d354f1-21f3-41ff-9b56-9c4e6081dd76)
+
+
+
+
+
